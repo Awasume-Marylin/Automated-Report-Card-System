@@ -11,7 +11,7 @@
 
 ## Project Overview
 This project is designed to reduce the work load of teachers and also reduce errors when entering and calculating the marks of students 
- ![alt](https://github.com/Awasume-Marylin/Superstore-Sales-Data/blob/48fef12876fd652828aff5fb24e792bd71080056/Output/Total_profit.png)
+ ![alt]()
  
  ### Data Sources
  
