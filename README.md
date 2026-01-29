@@ -11,6 +11,7 @@
 
 ## Project Overview
 This project is designed to reduce the work load of teachers and also reduce errors when entering and calculating the marks of students 
+
  ![alt](Output/Report-card.png)
  
  ### Data Sources
